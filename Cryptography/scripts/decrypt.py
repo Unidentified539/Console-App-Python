@@ -9,3 +9,4 @@ encoded_cipher = sys.argv[1]
 cipher = b64decode(encoded_cipher)
 plaintext = decrypt(password, cipher)
 print(plaintext)
+print("Make sure your replace the b at the beginning and the ' '")

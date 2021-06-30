@@ -8,4 +8,6 @@ message = sys.argv[1]
 
 cipher = encrypt(password, message)
 encoded_cipher = b64encode(cipher)
+
 print(encoded_cipher)
+print("Make sure your replace the b at the beginning and the ' '")
