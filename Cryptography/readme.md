@@ -3,4 +3,3 @@ Linux/Macintosh:
 ```shell
 sudo apt install git && git clone https://github.com/Unidentified539/Console-App-Python.git && sudo apt install python3 && cd Console-App-Python && cd Cryptography && pip install cryptography && pip install paramiko && sudo python3 TUI.py
 ```
-Windows: Use google cloud shell or something like that.
