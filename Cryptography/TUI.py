@@ -10,7 +10,6 @@ def menu():
     3. Type three to encrypt text from terminal
     4. Type four to decrypt text from terminal.
     5. Type five to exit.
-    6. Type six to see command center.            
     """))
     if choices == "1":
         choice_1()
